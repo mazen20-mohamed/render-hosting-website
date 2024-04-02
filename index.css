@@ -1,0 +1,93 @@
+.section-title{
+    text-align: center;
+    margin: 30px;
+}
+
+.row-coures{
+    margin: 10px;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+}
+
+.course-card{
+    background-color:rgb(241, 241, 241);
+    width: 300px;
+    margin: 10px;
+}
+
+.course-img{
+    width: 300px;
+}
+.content{
+    margin-left: 30px;
+    
+}
+.block{
+    border-bottom: 1px solid #b9b9b9;
+}
+.course-header{
+    color: rgb(39, 39, 39);
+    font-size: 20px;
+}
+
+.description-card{
+    color: rgb(163, 163, 163);
+    font-size: 16px;
+    width: 200px;
+}
+.no-students{
+    color:rgb(216, 94, 94);
+}
+
+.buttons{
+    text-align: center;
+    margin: 20px;
+}
+.button{
+    border: 0px;
+    background-color: white;
+    font-size: larger;
+    padding: 20px;
+}
+
+.price{
+    color: white;
+    background-color:rgb(216, 94, 94);
+    position: relative;
+    width: 80px;
+    text-align: center;
+    padding: 10px;
+    bottom: 210px;
+    left: 15px;
+}
+
+
+.author-image-span{
+    display: inline-block; 
+    width: 60px; 
+    height: 60px;
+    border-radius: 50%;
+    overflow: hidden; 
+    border: 2px solid #ccc; 
+    margin: 10px;
+}
+.author{
+    display: flex;
+}
+.author-image{
+    display: block;
+    width: 100%;
+    height: auto;
+}
+
+.author-name{
+    color: #a1a1a1;
+    align-items: center;
+    margin: 10px;
+    margin-top: 25px;
+}
+
+.Developer{
+    color:rgb(216, 94, 94);
+}

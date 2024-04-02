@@ -1,0 +1,44 @@
+/* Q1 */
+
+/* p{
+    color: red;
+} */
+
+/* Q2 */
+
+/* p , div{
+    color: red;
+} */
+
+/* Q3 */
+/* #mydiv > p{
+    color: blue;
+} */
+
+
+/* Q4 */
+
+/* div p{
+    color: red;
+} */
+
+/* Q5 */
+/* input[type = "text"].myClass{
+    background-color: brown;
+} */
+
+/* Q6 */
+/* div + p + span{
+    font-size: 50px;
+} */
+
+/* Q7 */
+/* p.myclass{
+    color: aqua;
+} */
+
+/* Q8 */
+
+div#myDiv{
+    background-color: red;
+}
